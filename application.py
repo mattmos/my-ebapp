@@ -59,7 +59,7 @@ welcome = """
   a {
     color: #0188cc;
   }
-  .textColumn, .linksColumn {
+  .textColumnz, .linksColumn {
     padding: 2em;
   }
   .textColumn {
