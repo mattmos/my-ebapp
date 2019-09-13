@@ -1,6 +1,6 @@
 import logging
 import logging.handlers
-
+imdfogksdfng
 from wsgiref.simple_server import make_server
 
 
@@ -59,7 +59,7 @@ welcome = """
   a {
     color: #0188cc;
   }
-  .textColumnz, .linksColumn {
+  .textColumn, .linksColumn {
     padding: 2em;
   }
   .textColumn {
